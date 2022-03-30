@@ -1,5 +1,8 @@
 # Python SSSD LDAP Auth
 
+[![pre-commit](https://github.com/jteppinette/python-sssd-ldap-auth/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/jteppinette/python-sssd-ldap-auth/actions/workflows/pre-commit.yml)
+[![test](https://github.com/jteppinette/python-sssd-ldap-auth/actions/workflows/test.yml/badge.svg)](https://github.com/jteppinette/python-sssd-ldap-auth/actions/workflows/test.yml)
+
 _A Python package which supports deobfuscating LDAP passwords
 contained in (System Security Services Daemon) sssd.conf files._
 
