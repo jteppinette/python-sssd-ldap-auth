@@ -26,6 +26,15 @@ $ pip install sssdldapauth
 
 ## Usage
 
+**CLI**
+
+```sh
+$ sssdldapauth deobfuscate <obfuscated_password>
+<password>
+```
+
+**Library**
+
 ```python
 from sssdldapauth import deobfuscate
 
